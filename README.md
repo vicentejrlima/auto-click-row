@@ -71,44 +71,34 @@ td = 'onde está o texto na célula'
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Para quem precisa selecionar ou clicar em um grande número de dados
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [Python](https://www.python.org/) - dispensa apresentações
+* [Selenium](https://selenium-python.readthedocs.io/) - Framework portátil para testar aplicativos web 
+* [Pandas](https://pandas.pydata.org/docs/) - Biblioteca Python que fornece ferramentas de análise de dados e estruturas de dados
+* [Rich](https://rich.readthedocs.io/en/stable/introduction.html) Biblioteca que deixa o terminal lindão
 
 ## 🖇️ Colaborando
 
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+há vagas... 
 
 ## 📌 Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+Versão Beta. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/vicentejrlima/auto-click-row.git). 
 
-## ✒️ Autores
+## ✒️ Autor
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+* **Dev** - *Trabalho Inicial - Portifólio* - [Vicente Lima](https://github.com/vicentejrlima)
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 🎁 Expressões de gratidão
+## 🎁 Agradecimentos
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
+* "Até aqui nos ajudou o Senhor." (1 Samuel, 7:12) :innocent:;
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+por [Vicente Lima](https://github.com/vicentejrlima) :bowtie:
