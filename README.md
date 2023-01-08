@@ -1,6 +1,6 @@
 # Auto Click Row (ACR)
 
-O ACR busca em um banco de dados as palavras para serem clicadas nas linhas das tabelas do navegador
+O ACR busca em um banco de dados ou lista as palavras para serem clicadas nas linhas das tabelas do navegador
 
 ## 🚀 Começando
 
