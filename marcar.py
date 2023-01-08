@@ -4,10 +4,10 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 from rich.progress import track
 from rich import print
+import os
 
 
-
-def checkTab(site = 'file:///E:/py/robos/GitHub/linhas.html', rowtab = '//*[@id="table-grid"]/tbody/tr', items = '', col = 3, td = '' ):
+def checkTab(site = f'file:///{os.getcwd()}/linhas.html', rowtab = '//*[@id="table-grid"]/tbody/tr', items = '', col = 3, td = '' ):
     options = webdriver.ChromeOptions()
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
     navegador = webdriver.Chrome(options=options)
